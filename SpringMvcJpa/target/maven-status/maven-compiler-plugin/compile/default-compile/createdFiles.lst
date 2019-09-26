@@ -1,0 +1,6 @@
+com\ojas\entity\Employee.class
+com\ojas\controller\EmpController.class
+com\ojas\service\EmployeeService.class
+com\ojas\service\EmployeeServiceImpl.class
+com\ojas\config\AppConfig.class
+com\ojas\repo\EmployeeRepo.class
